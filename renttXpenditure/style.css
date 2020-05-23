@@ -1,0 +1,45 @@
+/*CSS style for all the borders*/
+
+.container-fluid .row{
+   padding: 1.5%; 
+}
+.container-fluid{
+    margin-right: 2%;
+}
+
+.container-fluid .row .card .card-heading h3, h4{
+    text-align: right;
+    padding: 2px;
+    
+}
+.container-fluid .row .card .card-heading .fa-home{
+    font-size: 90px;  
+    color: white; 
+}
+
+.container-fluid .row .card .card-heading .fa-users{
+    font-size: 90px;  
+    color: antiquewhite; 
+}
+
+.container-fluid .row .card .card-heading .fa-address-card{
+    font-size: 90px;   
+    color: azure;
+}
+
+.container-fluid .row .card .card-heading .fa-money{
+    font-size: 90px;   
+    color: wheat;
+}
+
+.container-fluid .row .card .card-heading .fa-building-o{
+    font-size: 90px;   
+    color: azure;
+}
+
+
+.container-fluid .row .card .card-heading .fa-briefcase{
+    font-size: 90px;   
+    color: whitesmoke;
+}
+
